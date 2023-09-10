@@ -4,8 +4,7 @@ import { TextInput } from "@/components/input/TextInput/TextInput"
 import { useForm, SubmitHandler } from "react-hook-form"
 import Image from "next/image"
 import { CommonButton } from "@/components/Button/CommonButton"
-import { useEffect } from "react"
-import { useRouter } from "next/router"
+import { useRouter } from "next/navigation"
 
 type Inputs = {
   dish_name: string
