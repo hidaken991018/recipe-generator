@@ -13,7 +13,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-ligntBeige flex flex-col items-center">
+      <body className="bg-lightBeige flex flex-col items-center ">
         <CommonHeader />
         <main className='max-w-[1024px] '>
           {children}

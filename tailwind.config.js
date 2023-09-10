@@ -16,12 +16,13 @@ module.exports = {
     colors: {
       darkBrown: "#876B39",
       semiDarkBrown: "#A3874E",
-      semiLigntBrown: "#BCA268",
-      ligntBrown: "#DEC78C",
+      semilightBrown: "#BCA268",
+      lightBrown: "#DEC78C",
       darkBeige: "#CBB49E",
       semiDarkBeige: "#E0CFBE",
-      semiLigntBeige: "#EFE4D7",
-      ligntBeige: "#FFF8F0",
+      semilightBeige: "#EFE4D7",
+      lightBeige: "#FFF8F0",
+      error: "#F44336",
     }
   },
   plugins: [],
